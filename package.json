@@ -1,6 +1,6 @@
 {
   "name": "yowl-context-memory",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Persist the yowl context in memory",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/brianbrunner/yowl-context-rethink/issues"
   },
-    "devDependencies": {
+  "devDependencies": {
     "jshint": "latest",
     "mocha": "latest"
   },
