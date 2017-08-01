@@ -1,4 +1,3 @@
-var _ = require('lodash');
 var sessions = {};
 
 module.exports = function (context, event, next) {

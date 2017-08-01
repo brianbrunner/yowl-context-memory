@@ -1,6 +1,6 @@
 {
   "name": "yowl-context-memory",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Persist the yowl context in memory",
   "main": "index.js",
   "scripts": {
